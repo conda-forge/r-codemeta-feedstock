@@ -1,11 +1,11 @@
-About r-codemeta
-================
+About r-codemeta-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-codemeta-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cboettig/codemeta
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-codemeta-feedstock/blob/main/LICENSE.txt)
 
 Summary: The 'Codemeta' Project defines a 'JSON-LD' format for describing software metadata, as detailed at <https://codemeta.github.io>. This package provides core utilities to generate this metadata with a minimum of dependencies.
 
